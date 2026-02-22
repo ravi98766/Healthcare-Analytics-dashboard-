@@ -1,6 +1,11 @@
 ## Healthcare Financial & Operational Performance Dashboard
-________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________
+## Intro page
+<img width="901" height="502" alt="navigate" src="https://github.com/user-attachments/assets/22050f98-4174-43fe-a56a-11eef451318c" />
+__________________________________________________________________________________________________________________________________________________________
+
 ## DATA MODEL
+
 **1. Data Model / Schema Diagram**
 
 <img width="1120" height="497" alt="d0 data modelling" src="https://github.com/user-attachments/assets/150ee11a-09b8-4ad8-b454-c8f2147a48e9" />
